@@ -11,10 +11,14 @@
             "id": "ac40ec8e1f2b3440",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "archives/raw/drafts/brother.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "brother"
             }
           }
         ]
@@ -179,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f260315a5a38d9b",
+  "active": "ac40ec8e1f2b3440",
   "lastOpenFiles": [
-    "archives/raw/background/professional history 2.md",
+    "archives/raw/drafts/arts.md",
+    "archives/raw/drafts/addictions.md",
     "archives/raw/background/Professional history.md",
+    "archives/raw/background/professional history 2.md",
     "archives/raw/background/professionnal history 3.md",
     "raw/background/Professional history.md",
     "raw/background/professional history 2.md",
@@ -201,14 +207,12 @@
     "archives/raw/goals/2026-01-27 short term goals.md",
     "archives/raw/journal/2026-01-20 9 52 AM.md",
     "archives/raw/journal/2026-01-18.md",
-    "archives/raw/drafts/arts.md",
     "archives/raw/drafts/romance.md",
     "archives/raw/drafts/goals.md",
     "archives/raw/drafts/friends.md",
     "archives/raw/drafts/finances.md",
     "archives/raw/drafts/dad.md",
     "archives/raw/drafts/brother.md",
-    "archives/raw/drafts/addictions.md",
     "archives/raw/background/unfuck your life.md",
     "claude cowork/Patterns-Growth.md",
     "Dashboard.md.tmp.5.1769653298105",
