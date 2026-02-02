@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e6b1574d873f2c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30f59c5fdedc78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac40ec8e1f2b3440",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da14d1d705836b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "928b48c8ff62850f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f260315a5a38d9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffb31164e225c83e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "shame",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c25fab484ccdb84a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "539d769af0c520ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd355b19037924ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413a1a00b69df812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About-Me.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for About-Me"
+            }
+          },
+          {
+            "id": "6cdf9d0cf62bd52e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About-Me.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from About-Me"
+            }
+          },
+          {
+            "id": "da4891a934e3d6fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7590ef33dc891334",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c0a8aeecc0edb76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About-Me.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of About-Me"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6f260315a5a38d9b",
+  "lastOpenFiles": [
+    "archives/raw/background/professional history 2.md",
+    "archives/raw/background/Professional history.md",
+    "archives/raw/background/professionnal history 3.md",
+    "raw/background/Professional history.md",
+    "raw/background/professional history 2.md",
+    "archives/raw/background/Professional history.m4a",
+    "archives/raw/background/Professional history 3.m4a",
+    "archives/raw/drafts/mom.md",
+    "archives/raw/background/finances.md",
+    "archives/raw/journal/2026-01-30 10h00.md",
+    "raw/journal/2026-01-30 10h00.md",
+    "claude cowork/Dashboard.md",
+    "raw/background/finances.md",
+    "AGENTS.md",
+    "claude cowork/About-Me.md",
+    "claude cowork",
+    "archives/raw/background/Finances.m4a",
+    "archives/raw/goals/2026-01-27 short term goals.md",
+    "archives/raw/journal/2026-01-20 9 52 AM.md",
+    "archives/raw/journal/2026-01-18.md",
+    "archives/raw/drafts/arts.md",
+    "archives/raw/drafts/romance.md",
+    "archives/raw/drafts/goals.md",
+    "archives/raw/drafts/friends.md",
+    "archives/raw/drafts/finances.md",
+    "archives/raw/drafts/dad.md",
+    "archives/raw/drafts/brother.md",
+    "archives/raw/drafts/addictions.md",
+    "archives/raw/background/unfuck your life.md",
+    "claude cowork/Patterns-Growth.md",
+    "Dashboard.md.tmp.5.1769653298105",
+    "archives/raw/drafts",
+    "Dashboard.md.tmp.5.1769190343421",
+    "Dashboard.md.tmp.5.1769058704884",
+    "Dashboard.md.tmp.5.1769058692553",
+    "Dashboard.md.tmp.5.1769009176573"
+  ]
+}
